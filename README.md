@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m Muhammad Adam
+- 🌱 I’m currently learning Data Science with Python.
+- 👯 I’m looking to collaborate on Python or ML projects.
+- 💬 Ask me about anything.
+- 😄 Pronouns: Him/He
+- ⚡ Fun fact: I love to explore and learn on various topics.
+
 <!--
 **Auwal007/Auwal007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
