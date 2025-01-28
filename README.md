@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Muhammad+Adam+but+you+can+call+me+Auwal;Welcome+to+my+GitHub+Profile!&font=Architects+Daughter&center=true&width=650&height=120&color=3EA84D&vCenter=true&size=35&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Muhammad+Adam;You+can+call+me+Auwal;Welcome+to+my+GitHub+Profile!&font=Architects+Daughter&center=true&width=650&height=120&color=3EA84D&vCenter=true&size=35&duration=4000&pause=1000">
 </div>
 
 <h1 align="center">
@@ -37,6 +37,9 @@
 -->
 
 <p align="center">
+  <a href="https://x.com/M0hammadAI">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x formely twitter">
+  </a>
   <a href="https://www.linkedin.com/in/muhammad-adam00" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -64,7 +67,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="Coding" width="100%">
+      <img src="https://i.imgur.com/mMZ0tVq.gif" alt="Coding gif" width="100%">
     </td>
   </tr>
 </table>
