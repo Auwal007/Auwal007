@@ -187,13 +187,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting+my+profile!;I+hope+you+enjoyed+exploring;Feel+free+to+connect+and+collaborate;Let's+build+something+awesome+together;Wishing+you+success+in+your+journey!&font=Fira%20Code&center=true&width=480&height=50&duration=4000&pause=1000&color=3EA84D">
 
   <p>
-    <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg" alt="Made with love by raqibcodes">
+    <a href="https://github.com/Abdulraqib20" target="_blank">
+    <img src="https://img.shields.io/badge/Template%20by-Raqib-blue.svg" alt="Made with love by raqibcodes">
     <img src="https://img.shields.io/badge/Open%20for-Collaboration-green.svg" alt="Open for Collaboration">
-  </p>
-
-  <p>
-    <a href="https://twitter.com/Auwal007" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/M0hammadAI?style=social" alt="Twitter Follow">
-    </a>
   </p>
 </div>
