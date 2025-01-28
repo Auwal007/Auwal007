@@ -12,12 +12,6 @@
 ![gitartwork](gitartwork.svg)
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Auwal007&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Auwal007?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Auwal007?label=Stars&style=social" alt="stars" />
-</p>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
@@ -180,6 +174,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Auwal007&theme=react-dark" alt="Auwal007's GitHub Activity Graph">
 </p>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Auwal007&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Auwal007?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Auwal007?label=Stars&style=social" alt="stars" />
+</p>
 
 
 
