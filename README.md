@@ -184,7 +184,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+with+me;Let's+collaborate+on+exciting+projects;Wishing+you+a+fantastic+day!&font=Fira%20Code&center=true&width=480&height=50&duration=4000&pause=1000&color=3EA84D">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting+my+profile!;I+hope+you+enjoyed+exploring;Feel+free+to+connect+and+collaborate;Let's+build+something+awesome+together;Wishing+you+success+in+your+journey!&font=Fira%20Code&center=true&width=480&height=50&duration=4000&pause=1000&color=3EA84D">
 
   <p>
     <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg" alt="Made with love by raqibcodes">
