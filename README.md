@@ -67,7 +67,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://i.imgur.com/mMZ0tVq.gif" alt="Coding gif" width="100%">
+      <img src="https://i.imgur.com/mMZ0tVq.gif" alt="Coding gif" width="75%" height="auto">
     </td>
   </tr>
 </table>
