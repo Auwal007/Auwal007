@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://x.com/M0hammadAI">
-    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x formely twitter">
+    <img src="https://img.shields.io/badge/-X%20%20_-000000?style=for-the-badge&logo=x&logoColor=white" alt="x formely twitter">
   </a>
   <a href="https://www.linkedin.com/in/muhammad-adam00" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -192,9 +192,6 @@
   </p>
 
   <p>
-    <a href="https://github.com/Auwal007" target="_blank">
-      <img src="https://img.shields.io/github/followers/Auwal007?label=Follow&style=social" alt="GitHub followers">
-    </a>
     <a href="https://twitter.com/Auwal007" target="_blank">
       <img src="https://img.shields.io/twitter/follow/M0hammadAI?style=social" alt="Twitter Follow">
     </a>
